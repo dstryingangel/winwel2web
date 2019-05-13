@@ -1,3 +1,3 @@
 # winwel2web
 winwel2web
-https://myazurewebsites.winwel2web.com/
+https://winwel2web.azurewebsites.net/

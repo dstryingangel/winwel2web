@@ -1,0 +1,9 @@
+background=({
+    a+b+c==="device aspect ration"
+}
+    margin"a"
+    border"b"
+    padding"c"(
+        "device aspect ratio"
+    )
+)=src

@@ -1,0 +1,12 @@
+<cos>
+?=('navi')
+	<auto populate screen/>
+for 
+	{commandline dataoutput};
+	if={"true"
+	};
+	than{<generate.navi>};
+	else{"error"or"exit"};
+	
+
+</cos>

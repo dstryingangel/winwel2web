@@ -1,0 +1,3 @@
+{exit:'navi'
+trigger(navi'default')
+};

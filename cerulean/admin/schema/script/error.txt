@@ -1,0 +1,6 @@
+{error
+trigger(autopopulate:'notification')
+<context>errortype</context>
+};
+{trigger('closebox')
+}
